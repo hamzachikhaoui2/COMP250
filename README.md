@@ -11,3 +11,12 @@ Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurren
 Skills developed in this assignment include proficiency in implementing data structures (linked lists, stacks, queues), parsing and decoding strings, handling exceptions, and designing a simple game with different states and actions. Additionally, this assignment allows for a gain in experience in working with interfaces, abstract classes, and understanding the importance of efficient code execution.
 
 - **Assignment 3**: This assignment involves implementing a visual game where players manipulate hierarchical data using trees. The main data structure is a quad-tree representing a game board, and players apply operations like rotations to achieve specific goals. The assignment focuses on Java programming, recursion, tree structures, and inheritance. Skills developed include modeling hierarchical data, implementing recursive methods, converting trees into flat structures, and using inheritance in Java. The game involves rotating, reflecting, and "smashing" blocks to achieve goals such as creating the largest connected blob of a given color or maximizing a color's presence on the outer perimeter.
+
+- **Final Project**: This assignment involves implementing a Java program to analyze and visualize data from RateMyProfessors.com. The tasks include creating a custom hash table (MyHashTable) to efficiently store and retrieve data, parsing a dataset of college professor reviews, and building tools for data analysis. This assignment was a great ways to further my knowledge in hash table implementation, data parsing, and data analysis. The assignment emphasizes understanding and implementing hash table operations like put, get, remove, and rehash. The goal is to gain insights into language biases in professor reviews based on gender and rating categories.
+
+Skills developed:
+1. Hash table implementation in Java.
+2. Data parsing and extraction.
+3. Algorithmic skills for efficient data analysis.
+4. JavaFX GUI setup and interaction.
+5. Understanding and implementing various data analysis tools.
